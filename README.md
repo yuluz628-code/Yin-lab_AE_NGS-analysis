@@ -4,7 +4,7 @@ This script is designed to **automate the processing of CRISPR-Cas9 amplicon seq
 
 * **Preprocessing of raw sequencing data** (quality control, merging, and trimming)
 * **Demultiplexing samples** based on barcodes
-* **Alignment to reference sequences** and **mutation analysis using CRISPResso**
+* **Alignment to reference sequences** and **mutation analysis using CRISPResso2**
 * **Secondary filtering and requantification** of mutation results
 * **Summarization of final statistics** across all samples
 
